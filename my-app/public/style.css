@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(19, 124, 124);
+}
+
+h1{
+    color: rgb(241, 235, 235);
+    text-align: center;
+    text-shadow: 4px 4px rgb(54, 50, 50);
+    font-size: 100px;
+}
+
+.list-items{
+    background-color: #b3475d;
+    text-align: center;
+    font-size: 40px;
+}
